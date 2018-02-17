@@ -1,0 +1,8 @@
+u1 g1
+u2 g1
+u3 g2
+u4 g2
+u5 g2
+u6 g2
+u7 g3
+u8 g3

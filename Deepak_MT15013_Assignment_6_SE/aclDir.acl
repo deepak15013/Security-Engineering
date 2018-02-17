@@ -1,0 +1,8 @@
+fakeroot:-rwxrwxrwx
+5
+u1:rwx
+u2:rwx
+u3:rwx
+u4:rwx
+u5:rwx
+*
